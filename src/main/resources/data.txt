@@ -1,0 +1,5 @@
+Any lambdas of the form BufferedReader -> String can be passed as arguments, because
+they match the signature of the process method defined in the Buffered-ReaderProcessor
+interface. You now need only a way to execute the code represented by the lambda inside the
+body of processFile. Remember,
+안녕하세요.........
